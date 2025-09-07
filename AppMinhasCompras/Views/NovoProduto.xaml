@@ -8,8 +8,7 @@
         <ToolbarItem Text="Salvar" Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <VerticalStackLayout
-        Padding="10" Spacing="10">
+    <VerticalStackLayout Padding="10" Spacing="10">
         <Label Text="Descrição do produto:" />
         <Entry x:Name="txt_descricao"/>
         
